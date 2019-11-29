@@ -86,6 +86,8 @@ p {
 .properties {
 	background: #e2f8ff;
     padding: 80px 0;
+    padding-left: 120px;
+    padding-right: 10px;
 }
 
 .properties p {
@@ -95,6 +97,7 @@ p {
 .buyer {
 	background-color: #f5f9eb;
 	padding: 80px 0;
+	padding-right: 120px;
 }
 
 .buyer p {
