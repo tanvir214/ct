@@ -1,0 +1,122 @@
+body {
+	color: #a2a2a2;
+}
+
+
+h1 {
+	font-size: 40px;
+    text-align: center;
+    font-weight: 500;
+    padding-top: 50px;
+    color: #ffff;
+}
+
+h2 {
+	font-size: 30px;
+	text-align: center;
+	padding: 20px 0;
+    text-transform: uppercase; 
+}
+
+h3 {
+	font-size: 30px;
+	text-align: center;
+	font-weight: 400;
+	color: #ffff;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+p {
+	font-size: 18px;
+    text-align: center;
+    padding: 5px 0;
+    font-weight: 200;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.img-center {
+	margin: 0 auto;
+	display: block;
+}
+
+.btn {
+	margin: 50px auto;
+    display: block;
+    background: #99c50a;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-two {
+	border: none;
+    background: #26a6d1;
+    color: #ffff;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.nav-item {
+	padding: 20px 0;
+	margin: 0 10px;
+}
+
+.nav-link {
+	color: #161616!important;
+	font-size: 13px;l
+}
+
+.hero {
+	padding: 150px 0;
+	background: url(../img/icrowdme-PSD---cssauthor.jpg)no-repeat top center;
+	background-size: cover;
+	background-color: #bec9bf;
+}
+
+.work {
+	padding: 120px 0;
+}
+
+.properties {
+	background: #e2f8ff;
+    padding: 80px 0;
+}
+
+.properties p {
+	text-align: left;
+}
+
+.buyer {
+	background-color: #f5f9eb;
+	padding: 80px 0;
+}
+
+.buyer p {
+	text-align: left;
+}
+
+.btn-buyer{
+	background: #add136;
+}
+
+.blog {
+	padding: 100px 0;
+}
+
+.blog p {
+	text-align: left;
+}
+
+.btn-blog {
+	background-color: #ffff;
+	margin: 0 auto;
+	display: block;
+	border: 3px solid #d6d6d6;
+	color: #a2a2a2;
+}
